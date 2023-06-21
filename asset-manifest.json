@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CODE-EDITOR/static/css/main.7ab8654a.css",
+    "main.js": "/CODE-EDITOR/static/js/main.d0a5a8aa.js",
+    "static/js/787.9c339605.chunk.js": "/CODE-EDITOR/static/js/787.9c339605.chunk.js",
+    "static/media/logo.svg": "/CODE-EDITOR/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CODE-EDITOR/index.html",
+    "main.7ab8654a.css.map": "/CODE-EDITOR/static/css/main.7ab8654a.css.map",
+    "main.d0a5a8aa.js.map": "/CODE-EDITOR/static/js/main.d0a5a8aa.js.map",
+    "787.9c339605.chunk.js.map": "/CODE-EDITOR/static/js/787.9c339605.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab8654a.css",
+    "static/js/main.d0a5a8aa.js"
+  ]
+}
